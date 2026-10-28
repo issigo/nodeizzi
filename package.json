@@ -2,6 +2,10 @@
   "name": "proxy-drm-izzigo",
   "version": "1.0.0",
   "type": "module",
+  "main": "api/proxy.js",
+  "scripts": {
+    "build": "echo 'Build ignorado'"
+  },
   "engines": {
     "node": ">=18.x"
   }
